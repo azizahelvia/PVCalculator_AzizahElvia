@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Azizah Projects\\Unsia Kuliah Informatika\\Semester 1\\Pemrograman Visual\\Pemrograman Visual Tugas\\Latihan Pemrograman Visual\\ProgramKalkulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA553CB-C07C-4495-A19B-F374E06AAF48}|ProgramKalkulator\\ProgramKalkulator.vbproj|c:\\azizah projects\\unsia kuliah informatika\\semester 1\\pemrograman visual\\pemrograman visual tugas\\latihan pemrograman visual\\programkalkulator\\programkalkulator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FA553CB-C07C-4495-A19B-F374E06AAF48}|ProgramKalkulator\\ProgramKalkulator.vbproj|solutionrelative:programkalkulator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA553CB-C07C-4495-A19B-F374E06AAF48}|ProgramKalkulator\\ProgramKalkulator.vbproj|c:\\azizah projects\\unsia kuliah informatika\\semester 1\\pemrograman visual\\pemrograman visual tugas\\latihan pemrograman visual\\programkalkulator\\programkalkulator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FA553CB-C07C-4495-A19B-F374E06AAF48}|ProgramKalkulator\\ProgramKalkulator.vbproj|solutionrelative:programkalkulator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Azizah Projects\\Unsia Kuliah Informatika\\Semester 1\\Pemrograman Visual\\Pemrograman Visual Tugas\\Latihan Pemrograman Visual\\ProgramKalkulator\\ProgramKalkulator\\Form1.vb",
+              "RelativeDocumentMoniker": "ProgramKalkulator\\Form1.vb",
+              "ToolTip": "C:\\Azizah Projects\\Unsia Kuliah Informatika\\Semester 1\\Pemrograman Visual\\Pemrograman Visual Tugas\\Latihan Pemrograman Visual\\ProgramKalkulator\\ProgramKalkulator\\Form1.vb",
+              "RelativeToolTip": "ProgramKalkulator\\Form1.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwFQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-28T10:15:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Azizah Projects\\Unsia Kuliah Informatika\\Semester 1\\Pemrograman Visual\\Pemrograman Visual Tugas\\Latihan Pemrograman Visual\\ProgramKalkulator\\ProgramKalkulator\\Form1.vb",
+              "RelativeDocumentMoniker": "ProgramKalkulator\\Form1.vb",
+              "ToolTip": "C:\\Azizah Projects\\Unsia Kuliah Informatika\\Semester 1\\Pemrograman Visual\\Pemrograman Visual Tugas\\Latihan Pemrograman Visual\\ProgramKalkulator\\ProgramKalkulator\\Form1.vb [Design]",
+              "RelativeToolTip": "ProgramKalkulator\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-28T09:23:41.384Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
